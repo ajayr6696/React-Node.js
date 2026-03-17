@@ -1,7 +1,3 @@
-# Canny Debugging Test
-
-Ajay Ramasubramanian here. I have succesfully completed the assessment!
-
 ## Getting Started
 
 1. **Initialize your environment**
